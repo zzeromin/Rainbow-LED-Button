@@ -16,9 +16,6 @@ You can modify opensource to make the buttons look nice.
 * https://youtu.be/ZJ52eS6OaGk
 * https://youtu.be/rtS_CPtMrCQ
 
-## Manual
-* Gitbook: https://www.gitbook.com/book/zzeromin/rainbow-arcade-button/details
-
 ## Development Environment
 * Joystick: RAS Fatastick( http://cafe.naver.com/raspigamer/4240 )
 * Raspberry Pi 3
@@ -30,3 +27,6 @@ You can modify opensource to make the buttons look nice.
 ## Setup
 * Download the Arduino IDE: https://www.arduino.cc/en/main/software
 * Ardafruit Neopixel Arduino Library Installation: https://learn.adafruit.com/adafruit-neopixel-uberguide/arduino-library-installation
+
+## Manual
+* Gitbook: https://www.gitbook.com/book/zzeromin/rainbow-arcade-button/details
