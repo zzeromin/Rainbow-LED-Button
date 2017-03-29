@@ -11,9 +11,16 @@ You can modify opensource to make the buttons look nice.
 
 <img src="https://github.com/zzeromin/Rainbow-LED-Button/blob/master/Arcade%20Rainbow%20LED%20Button.jpg" width="70%" height="70%">
 
-
 ## Manual
 * Gitbook: https://www.gitbook.com/book/zzeromin/rainbow-arcade-button/details
+
+## Development Environment
+* Joystick: RAS Fatastick( http://cafe.naver.com/raspigamer/4240 )
+* Raspberry Pi 3
+* Arduino Pro Mini 3.3V 8MHz
+* WS2812B SMD RGB LED
+* SAMDUKSA 30mm Clear Button(SDB-201C)
+* 10K Resistor, 3Pin Molex, Jumperwires, Breadboard, etc.
 
 ## Setup
 * Download the Arduino IDE: https://www.arduino.cc/en/main/software
