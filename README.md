@@ -13,3 +13,7 @@ You can modify opensource to make the buttons look nice.
 
 ## Manual
 * Gitbook: https://www.gitbook.com/book/zzeromin/rainbow-arcade-button/details
+
+## Setup
+* Download the Arduino IDE: https://www.arduino.cc/en/main/software
+* Ardafruit Neopixel Arduino Library Installation: https://learn.adafruit.com/adafruit-neopixel-uberguide/arduino-library-installation
