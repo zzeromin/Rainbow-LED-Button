@@ -11,6 +11,11 @@ You can modify opensource to make the buttons look nice.
 
 <img src="https://github.com/zzeromin/Rainbow-LED-Button/blob/master/Arcade%20Rainbow%20LED%20Button.jpg" width="70%" height="70%">
 
+
+## Youtube
+* https://youtu.be/ZJ52eS6OaGk
+* https://youtu.be/rtS_CPtMrCQ
+
 ## Manual
 * Gitbook: https://www.gitbook.com/book/zzeromin/rainbow-arcade-button/details
 
