@@ -30,3 +30,10 @@ You can modify opensource to make the buttons look nice.
 
 ## Manual
 * Gitbook: https://www.gitbook.com/book/zzeromin/rainbow-arcade-button/details
+
+## Reference
+* Neopixel Library for Arduino:
+https://learn.adafruit.com/adafruit-neopixel-uberguide/arduino-library
+https://learn.adafruit.com/neopixel-arcade-button/assembly?view=all
+*Arduino - Dual Function Button - Long Press/Short Press (Without Delay) + Bonus
+https://www.instructables.com/id/Arduino-Dual-Function-Button-Long-PressShort-Press/
