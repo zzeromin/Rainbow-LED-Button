@@ -45,7 +45,7 @@ uint32_t magenta = strip.Color(255, 0, 255);
 uint32_t pink = strip.Color(255, 0, 127);
 uint32_t white = strip.Color(255, 255, 255);
 
-int delayBlink = 20; // delay for blink
+int delayBlink = 10; // delay for blink
 int buttonState[6] = {}; // state for six buttons
 
 long buttonTimer = 0;
@@ -79,7 +79,7 @@ void setupLed(void)
   for ( i = 0; i < 6; i++ )
     strip.setPixelColor( i, red ); // you can select color whatever you want.
   strip.show(); // This sends the updated pixel color to the hardware.
-  delay(20); // Delay for a period of time (in milliseconds)
+  delay(delayBlink); // Delay for a period of time (in milliseconds)
 }
 
 // Led off when you push button
