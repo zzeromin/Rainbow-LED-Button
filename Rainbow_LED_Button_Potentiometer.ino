@@ -46,7 +46,7 @@ uint32_t magenta = strip.Color(255, 0, 255);
 uint32_t pink = strip.Color(255, 0, 127);
 uint32_t white = strip.Color(255, 255, 255);
 
-int delayBlink = 20; // delay for blink
+int delayBlink = 10; // delay for blink
 int buttonState[6] = {}; // state for six buttons
 
 long buttonTimer = 0;
